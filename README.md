@@ -20,3 +20,4 @@ El usuario introduce en el textfield el nombre de una ciudad y la app muestra la
 * Copia este repositorio (clone o fork)
 * Tu respuesta debe ser un email con el link a tu repositorio donde hayas implementado la respuesta (Puede ser BitBucket, GitHub u otros)
 * Esperamos tu respuesta lo antes posible. Si puedes, avísanos cuándo nos podrás enviarnos la respuesta.
+# weatherfy
